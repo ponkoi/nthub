@@ -1,4 +1,4 @@
-# stormhub | school exploits and proxies
+# yenhub | school exploits and proxies
 
 
 ## - [movie sites](https://github.com/storm-tv/stormhub/blob/main/moviesites.md) <br>
