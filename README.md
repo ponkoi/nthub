@@ -7,7 +7,7 @@
 
 ### - [exploits](https://github.com/storm-tv/stormhub/blob/main/exploits.md) <br>
 
-## proudest project 🙏
+### proudest project 🙏
 
-## schools in cali stepping up their game making it hard holy
+### schools in cali stepping up their game making it hard holy
 
